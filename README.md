@@ -55,6 +55,7 @@
 <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
 <img alt="vscode" src="https://img.shields.io/badge/-vscode-000000?style=flat-square&logo=visual-studio-code&logoColor=2BA1F1" height="25px"/>
+	<img alt="flutter" src="https://img.shields.io/badge/-flutter-0081CB?style=flat-square&logo=flutter&logoColor=2BA1F1" height="25px"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -66,24 +67,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 Statistics:
 
-<div align="center">
-  
-  <p><img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="200" /></p>
-
-### Github Stats
-
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=chaosology-syed&show_icons=true&theme=tokyonight" /> 
-
-### Top Languages
-
-   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chaosology-syed&theme=cobalt&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-
-
-### Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chaosology-syed&theme=tokyonight)](https://github.com/chaosology-syed)
 
 <h4 align="center">	
 	
@@ -108,13 +92,7 @@
 	@@(___.'     '.___)                                    @@
 	+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 	```
-### Profile Summary
 
-<a href="https://github.com/chaosology-syed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaosology-syed&theme=dracula&hide_border=true"  width="500" alt="chaosology-syed" align="center" /></a>
-
-### Trophy	
-	
-<a href="https://github.com/chaosology-syed"><img src="https://github-profile-trophy.vercel.app/?username=chaosology-syed&theme=dracula&column=4&no-frame=true"  width="500" alt="chaosology-syed" align="center" /></a>
 
 	
 
